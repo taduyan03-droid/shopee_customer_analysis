@@ -136,7 +136,6 @@ relationships, repeated order patterns, and the use of multiple UIDs.
 |---|---|
 | `README.md` | Project overview, methodology, findings and conclusion |
 | `Shopee_customer_report.pdf` | Full analysis report |
-| `customer_fraud_analysis.sql` | SQL queries used for the analysis |
 
 ## Author
 
